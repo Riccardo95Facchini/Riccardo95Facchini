@@ -23,5 +23,5 @@ More about me: [Portfolio](https://riccardo95facchini.github.io/) - [LinkedIn](h
 #
 *NOTE: Top languages does not indicate my skill level, many of these code lines come from my university projects where most of the times I wasn't allowed to pick the language.*  
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Riccardo95Facchini&count_private=true&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccardo95Facchini&layout=compact)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Riccardo95Facchini&hide=stars,prs,issues,contribs&include_all_commits=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riccardo95Facchini&layout=compact&hide=tex)
