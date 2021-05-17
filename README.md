@@ -3,20 +3,15 @@
 I'm Riccardo, a software engineer from Italy, where I graduated at Politecnico di Milano.  
 All my public projects come from small university assignments and/or quick tools I needed. I'm aware it's not the cleanest code around but I learned something new from each experience and I like to think it helped me to be a better Software Engineer.
 
-As Maxwell said *"Fail early, fail often, but always fail forward."*
-
-I’m currently working for NTT Data Italia, where I get to have fun using some
+I’m currently working for Avanade as an Azure Developer, where I get to have fun using
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>  
-and a bit of good old 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> 
-<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 #
 Whenever I can I'm studying to get more Azure certifications, you can check out the ones I've got so far below:  
-- [Microsoft Certified: Azure Developer Associate](https://www.youracclaim.com/badges/2fb24719-2dcb-449d-858a-4df5b880ab80?source=linked_in_profile")
+- [Microsoft Certified: Azure Developer Associate](https://www.youracclaim.com/badges/2fb24719-2dcb-449d-858a-4df5b880ab80?source=linked_in_profile)
+- [Microsoft Certified: DevOps Engineer Expert](https://www.credly.com/badges/b0b0cfae-8eee-4ee8-aa36-98809db352ee)
 
 For more details about me you can visit my [LinkedIn](https://www.linkedin.com/in/riccardo95facchini/) page or check out my [Portfolio](https://riccardo95facchini.github.io/) (if I remembered to update it :sweat_smile:)
 #
