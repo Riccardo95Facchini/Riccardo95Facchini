@@ -1,5 +1,6 @@
-### Hi there, and welcome to my profile!
-#
+## Hi there, and welcome to my profile!
+### Note for recruiters: if you want to reach out please do so via LinkedIn, you can find my profile [here](https://www.linkedin.com/in/riccardo95facchini/).
+
 I'm Riccardo, a software engineer from Italy, where I graduated at Politecnico di Milano.  
 All my public projects come from small university assignments and/or quick tools I needed.
 
